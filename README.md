@@ -2,6 +2,6 @@
 ## 姓名：刘兆晨
 
 # Homework list
-- [ ] [Excerise_01:print your name]()
+- [ ] [Excerise_02:print your name]()
 
 
