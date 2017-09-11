@@ -5,3 +5,5 @@
 - 图片效果
 - ![](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2001/liuzc_name.png)
 - [代码](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2001/%E6%89%93%E5%8D%B0%E5%90%8D%E5%AD%97.py)
+
+- 致谢：感谢文丞戈的[bolg](http://www.cnblogs.com/wen2cheng2ge/p/6488886.html)
