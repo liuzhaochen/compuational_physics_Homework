@@ -7,7 +7,7 @@
 - ![](http://latex.codecogs.com/gif.latex?\\frac{dN}{dt}\=aN-bN^2)
 - 当N的变化率为零时，人口达到平衡,即：![](http://latex.codecogs.com/gif.latex?\\frac{dN}{dt}\=0)
 - 可见![](http://latex.codecogs.com/gif.latex?N=\frac{a}{b})
-- 由Elur method 可得，递推关系是![](http://latex.codecogs.com/gif.latex?\{N}(t+\triangle{t})=aN\tringle{t}-bN^2\triangle{t}+N)
+- 由Elur method 可得，递推关系是![](http://latex.codecogs.com/gif.latex?\{N}(t+\triangle{t})=aN\triangle{t}-bN^2\triangle{t}+N)
 - 在我们的计算中，取![](http://latex.codecogs.com/gif.latex?\\traingle{t}=0.0002)
 ## 情况一，b等于零
 - 当b等于零时，通过直接解方程可知N按指数增长
