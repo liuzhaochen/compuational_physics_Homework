@@ -20,7 +20,7 @@
 - ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2003/Population%20Growth%20%20%20N(0)%3D10.png)
 - 可见N开始减小，直到平衡后等于10/3
 ## 当N(0)较大时
-- 当N(0)等于100时，选择参数a=10,b=3
+- 当N(0)等于100时，选择参数a=10,b=0.01
 - 此时计算结果为：
 - ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2003/Population%20Growth%20%20%20N(0)%3D100.png)
 - 可见，N的平衡数值为1000
