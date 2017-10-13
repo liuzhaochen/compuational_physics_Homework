@@ -34,11 +34,16 @@
 - 此时应该将![](http://latex.codecogs.com/gif.latex?B_2)替换为![](http://latex.codecogs.com/gif.latex?B^{ref}_2(\frac{T_0}{T_{ref}})^\alpha)
 - 这里T=300K是参考温度，在我们的问题考虑中，遵循书上的标定![](http://latex.codecogs.com/gif.latex?\frac{B^{ref}_2}{m}=4\times10^{-5}m^{-1})
 ### Eulr Method 递推关系
-- 在这里给出对空气阻力进行上述修正后的递推公式
+#### 绝热模型的递推公式：
 - ![](http://latex.codecogs.com/gif.latex?x_{i+1}=x_i+v_{x,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?y_{i+1}=y_i+v_{y,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{(1-\frac{ay}{T_0})^{\alpha}}vv_{x,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g{\triangle}t-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{(1-\frac{ay}{T_0})^{\alpha}}vv_{y,i}{\triangle}t)
+#### 等温模型的递推公式：
+- ![](http://latex.codecogs.com/gif.latex?x_{i+1}=x_i+v_{x,i}{\triangle}t)
+- ![](http://latex.codecogs.com/gif.latex?y_{i+1}=y_i+v_{y,i}{\triangle}t)
+- ![](http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{x,i}{\triangle}t)
+- ![](http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g{\triangle}t-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{y,i}{\triangle}t)
 
 
 
