@@ -21,7 +21,7 @@
  ![](http://latex.codecogs.com/gif.latex?F_{drag,x}=F_{drag}cos(\theta)=-B_2vv_x)  
  ![](http://latex.codecogs.com/gif.latex?F_{drag,y}=F_{drag}sin(\theta)=-B_2vv_y)
 - 则，对应的关于![](http://latex.codecogs.com/gif.latex?v_x)与![](http://latex.codecogs.com/gif.latex?v_y)的方程应该加上对应的项。
-### 由于海报造成空气密度不同而对于空气阻力系数的修正
+### 由于海拔高度造成空气密度不同而对于空气阻力系数的修正
 - 空气阻力中，系数![](http://latex.codecogs.com/gif.latex?B_2)是正比与空气密度的。
 - 故在考虑到随海拔增加，空气密度相应减小，因此要考虑到对空气密度的修正。
 - 在等温模型中，空气密度：  
@@ -55,6 +55,8 @@
 ### 293K温度下，不同出射角度的对比
 - 45°与60°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_60degree_T%3D293k.png)
 - 45°与30°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_30degree_T%3D293k.png)
+### 源代码
+- ![源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/homework04.py)
 
 
  
