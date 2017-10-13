@@ -7,7 +7,7 @@
 ### 无阻力时的抛物运动
 - 在无阻力的抛物运动中，对应的运动方程为：  
 
-  ![](http://latex.codecogs.com/gif.latex?\frac{d^2x}{dt^2}=0\quad\frac{d^y}{dt^2}=-g)
+  ![](http://latex.codecogs.com/gif.latex?\frac{d^2x}{dt^2}=0\quad\frac{d^2y}{dt^2}=-g)
 - 将方程降阶后可得到：  
 
   ![](http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=v_x\quad\frac{dv_x}{dt}=0)  
