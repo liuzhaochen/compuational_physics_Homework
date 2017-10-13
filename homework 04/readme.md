@@ -24,7 +24,7 @@
 - 空气阻力中，系数![](http://latex.codecogs.com/gif.latex?B_2)是正比与空气密度的。
 - 故在考虑到随海拔增加，空气密度相应减小，因此要考虑到对空气密度的修正。
 - 在等温模型中，空气密度：  
- ![](http://latex.codecogs.com/gif.latex?\rho={\rho}_0{exp(-\frac{y}{y_0})}\quad{y_0=\frac{K_BT}{mg}=1.0\times10^4})  
+ ![](http://latex.codecogs.com/gif.latex?\rho={\rho}_0{exp(-\frac{y}{y_0})}\quad{y_0=\K/m=1.0\times10^4})  
 - 但是，等温模型过于粗糙。因为我们知道，随着海拔的增加，温度必然会降低。
 - 绝热近似模型会是一个更好的近似。这时密度![](http://latex.codecogs.com/gif.latex?\rho={\rho_0}(1-\frac{ay}{T_0})^{\alpha})  
  其中，![](http://latex.codecogs.com/gif.latex?a=6.5\times106{-3}\frac{K}{m})而![](http://latex.codecogs.com/gif.latex?\alpha=2.5)
