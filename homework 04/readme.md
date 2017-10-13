@@ -10,7 +10,8 @@
   ![](http://latex.codecogs.com/gif.latex?\frac{d^2x}{dt^2}=0\quad\frac{d^y}{dt^2}=-g)
 - 将方程降阶后可得到：  
 
-  ![](http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=v_x\quad\frac{dv_x}{dt}=0)
+  ![](http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=v_x\quad\frac{dv_x}{dt}=0)  
+  
   ![](http://latex.codecogs.com/gif.latex?\frac{dy}{dt}=v_y\quad\frac{dv_y}{dt}=-g)
 ### 考虑空气阻力后
 - 在考虑真实情况中，在大气中的运动顶存在空气阻力。
