@@ -56,7 +56,7 @@
 - 45°与60°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_60degree_T%3D293k.png)
 - 45°与30°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_30degree_T%3D293k.png)
 ### 源代码
-- ![源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/homework04.py)
+- [源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/homework04.py)
 ### 结论
 - 从上述图片可以看出，在格外考虑到地面温度对阻力的影响时，等温模型下的抛物运动总比绝热模型远。
 - 而温度越低，最大距离越远。
@@ -64,7 +64,7 @@
 - 尝试使用计算抛物线的结果，将X，Y轴数据接入pygame中直接进行坐标定位。
 - 的确成功让图片按照计算的抛物线运动。
 - 但是由于代码设计原因，没有达成调整出射角度的想法。
-- ![pygame 尝试 源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/try.py)
+- [pygame 尝试 源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/try.py)
 
 
  
