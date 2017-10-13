@@ -3,7 +3,7 @@
 ## 物基二班 刘兆晨 2015302540110
 ## Problem 2.7
 - 原题：
-- ![]()
+- ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/problem2.7.png)
 ### 无阻力时的抛物运动
 - 在无阻力的抛物运动中，对应的运动方程为：  
 
@@ -45,7 +45,15 @@
 - ![](http://latex.codecogs.com/gif.latex?y_{i+1}=y_i+v_{y,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{x,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g{\triangle}t-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{y,i}{\triangle}t)
-
+### 45°出射，切地面温度不同的情况
+- 温度273K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D273k.png)
+- 温度283K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D283k.png)
+- 温度293K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D293k.png)
+- 温度303K时: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D303k.png)
+- 温度313K时: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D313k.png)
+### 293K温度下，不同出射角度的对比
+- 45°与60°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_60degree_T%3D293k.png)
+- 45°与30°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_30degree_T%3D293k.png)
 
 
  
