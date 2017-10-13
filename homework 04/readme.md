@@ -46,17 +46,25 @@
 - ![](http://latex.codecogs.com/gif.latex?y_{i+1}=y_i+v_{y,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{x,i}{\triangle}t)
 - ![](http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g{\triangle}t-{\frac{B^{ref}_2}{m}(\frac{T_0}{T_{ref}})^\alpha}{exp(-\frac{y}{y_0})}vv_{y,i}{\triangle}t)
-### 45°出射，切地面温度不同的情况
+### 计算结果： 45°出射，切地面温度不同的情况
 - 温度273K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D273k.png)
 - 温度283K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D283k.png)
 - 温度293K时：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D293k.png)
 - 温度303K时: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D303k.png)
 - 温度313K时: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_T%3D313k.png)
-### 293K温度下，不同出射角度的对比
+### 计算结果： 293K温度下，不同出射角度的对比
 - 45°与60°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_60degree_T%3D293k.png)
 - 45°与30°: ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2004/45degree_30degree_T%3D293k.png)
 ### 源代码
 - ![源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/homework04.py)
+### 结论
+- 从上述图片可以看出，在格外考虑到地面温度对阻力的影响时，等温模型下的抛物运动总比绝热模型远。
+- 而温度越低，最大距离越远。
+### Pygame的尝试
+- 尝试使用计算抛物线的结果，将X，Y轴数据接入pygame中直接进行坐标定位。
+- 的确成功让图片按照计算的抛物线运动。
+- 但是由于代码设计原因，没有达成调整出射角度的想法。
+- ![pygame 尝试 源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/try.py)
 
 
  
