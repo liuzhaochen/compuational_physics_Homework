@@ -29,7 +29,7 @@
 - 但是，等温模型过于粗糙。因为我们知道，随着海拔的增加，温度必然会降低。
 - 绝热近似模型会是一个更好的近似。这时密度![](http://latex.codecogs.com/gif.latex?\rho={\rho_0}(1-\frac{ay}{T_0})^{\alpha})  
  其中，![](http://latex.codecogs.com/gif.latex?a=6.5\times10^{-3}\{K/m})而![](http://latex.codecogs.com/gif.latex?\alpha=2.5)
-- 虽然这两种对阻力系数的修正是不同的，但是对于我们的方程，我们只需要降![](http://latex.codecogs.com/gif.latex?B_2)替换为![](http://latex.codecogs.com/gif.latex?B_2\frac{\rho}{\rho_0})
+- 虽然这两种对阻力系数的修正是不同的，但是对于我们的方程，我们只需要将![](http://latex.codecogs.com/gif.latex?B_2)替换为![](http://latex.codecogs.com/gif.latex?B_2\frac{\rho}{\rho_0})
 ### 地面温度变化对阻力系数的影响
 - 再考虑到空气密度对空气阻力的修正之后，我们进一步考虑由于地面温度变化造成对阻力系数的影响。
 - 此时应该将![](http://latex.codecogs.com/gif.latex?B_2)替换为![](http://latex.codecogs.com/gif.latex?B^{ref}_2(\frac{T_0}{T_{ref}})^\alpha)
