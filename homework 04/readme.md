@@ -32,6 +32,7 @@
 ### 地面温度变化对阻力系数的影响
 - 再考虑到空气密度对空气阻力的修正之后，我们进一步考虑由于地面温度变化造成对阻力系数的影响。
 - 此时应该将![](http://latex.codecogs.com/gif.latex?B_2)替换为![](http://latex.codecogs.com/gif.latex?B^{ref}_2(\frac{T_0}{T_{ref}})^\alpha)
+- ![](http://latex.codecogs.com/gif.latex?T_0)是海平面温度。
 - 这里T=300K是参考温度，在我们的问题考虑中，遵循书上的标定![](http://latex.codecogs.com/gif.latex?\frac{B^{ref}_2}{m}=4\times10^{-5}m^{-1})
 ### Eulr Method 递推关系
 #### 绝热模型的递推公式：
