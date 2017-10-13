@@ -60,7 +60,7 @@
 - [源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2004/homework04.py)
 ### 结论
 - 从上述图片可以看出，在格外考虑到地面温度对阻力的影响时，等温模型下的抛物运动总比绝热模型远。
-- 而温度越低，最大距离越远。
+- 在出射角度固定的情况下，温度越低，最大距离越远。
 ### Pygame的尝试
 - 尝试使用计算抛物线的结果，将X，Y轴数据接入pygame中直接进行坐标定位。
 - 的确成功让图片按照计算的抛物线运动。
