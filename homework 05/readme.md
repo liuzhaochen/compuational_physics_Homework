@@ -11,7 +11,7 @@
 
   ![](http://latex.codecogs.com/gif.latex?\frac{dy}{dt}=v_y\quad\frac{dv_y}{dt}=-g-{\frac{B_2}{m}}vv_y)  
   ![](http://latex.codecogs.com/gif.latex?\frac{dz}{dt}=v_z\quad\frac{dv_z}{dt}=-{\frac{B_2}{m}}vv_z)  
-- 由于棒球表面的不规则性，使得阻力系数会根据速度的变化而变化，一个有效的经验公式是：![](http://latex.codecogs.com/gif.latex?\frac{B_2}{m}=0.0039+\frac{0.0058}{1+exp[\frac{v-v_d}{\triangle}]}\quad)![](http://latex.codecogs.com/gif.latex?{v_d=35m\s,\triagnle=5m\s})
+- 由于棒球表面的不规则性，使得阻力系数会根据速度的变化而变化，一个有效的经验公式是：![](http://latex.codecogs.com/gif.latex?\frac{B_2}{m}=0.0039+\frac{0.0058}{1+exp[\frac{v-v_d}{\triangle}]}\quad)    ![](http://latex.codecogs.com/gif.latex?{v_d=35m\s,\triagnle=5m\s})
 - 而在棒球运动中，棒球速度远比作业4中的物体小，故z方向与y方向受到的空气阻力足够小，以至于我们可以忽略不计。
 ### 自传效应
 - 由于棒球运动中，棒球作为球体的旋转带来的影响会造成球在运动方向上的偏转。不能将球看作质点处理。必须考虑到Magnus效应。
