@@ -31,6 +31,25 @@
   ![](http://latex.codecogs.com/gif.latex?z_{i+1}=z_i+v_z{\triangle}t{\quad}v_{z,i+1}=v_{z,i}-\frac{S_0}{m}{\omega}v_{x}{\triangle}t)
 ### 计算
 - 在计算Batted ball时，我们的初速度设置为30m/s，而角速度是2000rpm
+#### 45°出射
+- 三维图像：  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/angle_45%2Cw_2000rpm.png)
+ - Z轴偏转距离与x的关系：  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/zDEFLECTION_angle_45%2Cw_2000rpm.png)
+#### 30°出射
+- 三维图像：  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/angle_30%2Cw_2000rpm.png)
+- Z轴偏转距离与x的关系:  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/zDEFLECTION_angle_30%2Cw_2000rpm.png)
+#### 60°出射
+- 三维图像：  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/angle_60%2Cw_2000rpm.png)
+- Z轴偏转距离与x的关系:  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/zDEFLECTION_angle_60%2Cw_2000rpm.png)
+#### Z方向偏转
+- Z方向的最大偏转距离与出射角度有关，给出具体曲线：
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/deflection.png)
+![源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2005/homework05.py)
 
 
 
