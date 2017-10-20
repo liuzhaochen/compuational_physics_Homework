@@ -49,7 +49,7 @@
 #### Z方向偏转
 - Z方向的最大偏转距离与出射角度有关，给出具体曲线：
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2005/deflection.png)
-![源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2005/homework05.py)
+- [源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2005/homework05.py)
 
 
 
