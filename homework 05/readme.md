@@ -6,7 +6,7 @@
 - 原题：
 - Model the effect of backspin on the range of a batted ball. Assume an anguler velocity of 2000 rpm.
 ### 运动方程
-- 由[作业4](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2004)我们知道，一个受到空气阻力作业的小球的运动方程应该是：  
+- 由![作业4](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2004)我们知道，一个受到空气阻力作业的小球的运动方程应该是：  
 ![](http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=v_x\quad\frac{dv_x}{dt}=-{\frac{B_2}{m}}vv_x)  
 
   ![](http://latex.codecogs.com/gif.latex?\frac{dy}{dt}=v_y\quad\frac{dv_y}{dt}=-g-{\frac{B_2}{m}}vv_y)  
