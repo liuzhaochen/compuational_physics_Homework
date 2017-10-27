@@ -7,4 +7,4 @@
 - [x] [Homework 03:Chapter1](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2003)
 - [x] [Homework 04:Chapter2 Realistic Projectile Motion](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2004)
 - [x] [Homework 05:Throwing a Baseball:The Effects of Spin](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2005)
-- [ ] [Homework 06:Chaos in the Driven Nonlinear Pendulum](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2006)
+- [x] [Homework 06:Chaos in the Driven Nonlinear Pendulum](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2006)
