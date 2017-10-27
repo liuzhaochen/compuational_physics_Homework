@@ -24,7 +24,7 @@
 
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D0.5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D0.8.png)
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.0.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.2.png)  
-  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D2.png)  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fD%3D1.5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D2.png)  
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/FD%3D3.png)
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D4.png)  
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/FD%3D5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/FD%3D6.png)
