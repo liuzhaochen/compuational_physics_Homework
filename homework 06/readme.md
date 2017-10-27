@@ -20,7 +20,8 @@
 - 在计算中，我们取l=9.8,g=9.8,q=0.5,![](http://latex.codecogs.com/gif.latex?\Omega_D)为2/3,![](http://latex.codecogs.com/gif.latex?F_D)为可调参数，而初始角速度为零。而演化步长为0.0004s
 ### 计算结果
 - 计算结果如下图，我们在y轴使用了对数坐标。 
-- 图中曲线突然直线下降的原因在于，再这个位置![](http://latex.codecogs.com/gif.latex?{\triangle}\theta)等于0，而我们选取的对数坐标对于为值为负无穷大，故出现了这样的现象。
+- 图中曲线突然直线下降的原因在于，再这个位置![](http://latex.codecogs.com/gif.latex?{\triangle}\theta)等于0，而我们选取的对数坐标对于为值为负无穷大，故出现了这样的现象。  
+
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D0.5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D0.8.png)
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.0.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.2.png)  
   ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D1.5.png)![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2006/fd%3D2.png)  
