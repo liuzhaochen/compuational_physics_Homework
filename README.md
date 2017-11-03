@@ -8,3 +8,4 @@
 - [x] [Homework 04:Chapter2 Realistic Projectile Motion](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2004)
 - [x] [Homework 05:Throwing a Baseball:The Effects of Spin](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2005)
 - [x] [Homework 06:Chaos in the Driven Nonlinear Pendulum](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2006)
+- [x] [Homework 07:Routes to Chaos: Period Doubling](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2007)
