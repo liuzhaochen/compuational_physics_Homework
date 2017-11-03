@@ -20,5 +20,5 @@
 ### 分析
     这里计算的两个图都有问题，第一张图曲线走势没有问题，但是曲线整体偏下，且在1.5处有误。  
     而第二张图，有一部分是正确的，但是不知道为什么多出一块。。。。
-    代码给出来：![Bifurcation图](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework%2007.py)
-               ![Poincare section](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework07_2.py)
+    代码给出来：[Bifurcation图](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework%2007.py)
+               [Poincare section](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework07_2.py)
