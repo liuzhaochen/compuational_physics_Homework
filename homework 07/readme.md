@@ -10,5 +10,5 @@
   
 - 为了判断什么时候会出现混沌现象，我们需要引入Bifuraction Diagram。即将![](http://latex.codecogs.com/gif.latex?\theta)作为![](http://latex.codecogs.com/gif.latex?F_D)画出。这里的![](http://latex.codecogs.com/gif.latex?\theta)是指满足![](http://latex.codecogs.com/gif.latex?\Omega_D t=2n\pi)的点，n为整数。
 ## 参数选取
-- 在下面的计算中，我们选取初始角度为0.01，而耗散系数为0.5，驱动力周期![](http://latex.codecogs.com/gif.latex?\Omega_D=\frac{2}{3})计算步长![](http://latex.codecogs.com/gif.latex?\triangle t=0.01)
-- 而
+- 在下面的计算中，我们选取初始角度为0.01，而耗散系数为0.5，驱动力周期![](http://latex.codecogs.com/gif.latex?\Omega_D=\frac{2}{3})计算步长![](http://latex.codecogs.com/gif.latex?{\triangle} t=0.01)
+- 而由于我们的计算步长总是有限的，所以![](http://latex.codecogs.com/gif.latex?\Omega_D t=2n\pi)肯定无法严格满足。故我们用不等式![](http://latex.codecogs.com/gif.latex?|t-\frac{2n\pi}{\Omega_D}|<{\triangle}t)
