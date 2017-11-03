@@ -11,4 +11,14 @@
 - 为了判断什么时候会出现混沌现象，我们需要引入Bifuraction Diagram。即将![](http://latex.codecogs.com/gif.latex?\theta)作为![](http://latex.codecogs.com/gif.latex?F_D)画出。这里的![](http://latex.codecogs.com/gif.latex?\theta)是指满足![](http://latex.codecogs.com/gif.latex?{\Omega_D}t=2n\pi)的点，n为整数。
 ## 参数选取
 - 在下面的计算中，我们选取初始角度为0.01，而耗散系数为0.5，驱动力周期![](http://latex.codecogs.com/gif.latex?\Omega_D=\frac{2}{3})计算步长![](http://latex.codecogs.com/gif.latex?{\triangle}t=0.01)
-- 而由于我们的计算步长总是有限的，所以![](http://latex.codecogs.com/gif.latex?{\Omega_D}t=2n\pi)肯定无法严格满足。故我们用不等式![](http://latex.codecogs.com/gif.latex?|t-\frac{2n\pi}{\Omega_D}|<{\triangle}t)
+- 而由于我们的计算步长总是有限的，所以![](http://latex.codecogs.com/gif.latex?{\Omega_D}t=2n\pi)肯定无法严格满足。故我们用不等式![](http://latex.codecogs.com/gif.latex?|t-\frac{2n\pi}{\Omega_D}|<{\triangle}t)来作为限制条件选择去点。
+## 计算结果
+- Bifurcation计算结果如下：
+- [](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2007/bifurcation.png)
+- 而我们按照FD=1.2，计算出![](http://latex.codecogs.com/gif.latex?\theta)与![](http://latex.codecogs.com/gif.latex?\omega)的图为：
+- [](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2007/omega_theta_fd%3D1.2.png)
+### 分析
+    这里计算的两个图都有问题，第一张图曲线走势没有问题，但是曲线整体偏下，且在1.5处有误。  
+    而第二张图，有一部分是正确的，但是不知道为什么多出一块。。。。
+    代码给出来：![Bifurcation图](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework%2007.py)
+               ![Poincare section](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2007/homework07_2.py)
