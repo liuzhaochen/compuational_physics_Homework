@@ -9,3 +9,5 @@
 - [x] [Homework 05:Throwing a Baseball:The Effects of Spin](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2005)
 - [x] [Homework 06:Chaos in the Driven Nonlinear Pendulum](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2006)
 - [x] [Homework 07:Routes to Chaos: Period Doubling](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2007)
+- [x] [Homework 08:The Billiard Problem](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2009)
+- [ ] [Midterm Homework]()
