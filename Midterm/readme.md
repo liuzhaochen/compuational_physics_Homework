@@ -9,12 +9,13 @@
 QB！邪恶的QB！驾驶着UFO又要摧毁我们可爱的小圆！
 拿起你的大炮，摧毁UFO！  
 
-操作说明：   上下方向键控制出射角度  
-            左右方向键控制炮弹出射速度  
-            按a键即可重新发射  
-            按s键重新进行游戏（分数也会清零）  
-            按空格键发射  
-            每次由10次机会，当10次生命值耗尽时，会重新开始游戏！
+操作说明：   
+- 上下方向键控制出射角度  
+- 左右方向键控制炮弹出射速度  
+- 按a键即可重新发射  
+- 按s键重新进行游戏（分数也会清零）  
+- 按空格键发射  
+- 每次由10次机会，当10次生命值耗尽时，会重新开始游戏！
 ## 游戏截图:
 ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Midterm/3.png)
 ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Midterm/1.png)
