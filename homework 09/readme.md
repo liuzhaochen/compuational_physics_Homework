@@ -11,7 +11,7 @@
   这里我们选取a=4,b=2
 - 为了让球在边界处弹性碰撞，我们需要知道椭圆的法向量![](http://latex.codecogs.com/gif.latex?\vec{n})而碰撞对速度造成的影响为：  我们
 ![](http://latex.codecogs.com/gif.latex?{\vec{v^'}}_{\bot}=-(\vec{v}\cdot\vec{n})\vec{n}\quad)  ![](http://latex.codecogs.com/gif.latex?{\vec{v^'}}_{\shortparallel}={\vec{v^}}_{\shortparallel}=\vec{v}-{\vec{v^}}_{\bot})
-- 即 ![](http://latex.codecogs.com/gif.latex?{\vec{v^'}={\vec{v}}-2(\vec{v}\cdot\vec{n})\vec{n})
+- 即 ![](http://latex.codecogs.com/gif.latex?{\vec{v^'}}={\vec{v}}-2(\vec{v}\cdot\vec{n})\vec{n})
 - 由椭圆方程可知，椭圆的单位法向量即为![](http://latex.codecogs.com/gif.latex?{\vec{n}}=\frac{(\frac{2x}{a^2},\frac{2y^2}{b^2})}{\sqrt{\frac{4x^2}{a^4}+\frac{4y^2}{b^4}}})
 - 由此即可计算出碰撞后的速度。
 ## 计算结果与讨论
