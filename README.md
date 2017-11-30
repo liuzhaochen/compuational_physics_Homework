@@ -10,4 +10,5 @@
 - [x] [Homework 06:Chaos in the Driven Nonlinear Pendulum](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2006)
 - [x] [Homework 07:Routes to Chaos: Period Doubling](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2007)
 - [x] [Homework 08:The Billiard Problem](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2009)
-- [ ] [Midterm Homework]()
+- [x] [Midterm Homework](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Midterm)(上次期中的连接出了问题，这次进行更新)
+- [x] [Homework 09:The Solar System](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Homework%2009)
