@@ -18,16 +18,19 @@
         ![](http://latex.codecogs.com/gif.latex?r_m=\sqrt{(x_m)^2+(y_m)^2})
 - 由于使用自然坐标系在计算行星运动中时，行星运动尺度的巨大性导致其十分不方便，因此引入天文单位：
   即1AU等于太阳与地球间距离的平均单位，而使用年作为时间单位时，可见![](http://latex.codecogs.com/gif.latex?GM_s=4{\pi}^2{AU}^3}/{{yr}^2)
-  而![](http://latex.codecogs.com/gif.latex?\frac{GM_E}{GM_s}\approx{3\times{10^{-6}}})
+  而![](http://latex.codecogs.com/gif.latex?\frac{M_E}{M_s}\approx{3\times{10^{-6}}})
 ## 初始条件
   因为在我们的计算中使用了天文单位制，所以我们的初始条件选取为：
 - 地球：
   坐标：x=1,y=0; 速度：![](http://latex.codecogs.com/gif.latex?v_x=0\quadv_y=2\pi)
 - 月球：
-  坐标：x=1+0.00275,y=0; 速度：![](http://latex.codecogs.com/gif.latex?2\pi+2\pi\sqrt{0.00275\frac{M_E}{M_s}})
+  坐标：x=1+0.00275,y=0; 速度：![](http://latex.codecogs.com/gif.latex?2\pi+2\pi\sqrt{\frac{1}{0.00275}\frac{M_E}{M_s}})
 ## 计算结果：
 - 轨迹图：
-  ![](
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Homework%2009/Figure_1.png)
 - 放大后的轨迹：
-  ![](
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Homework%2009/Figure_1-1.png)  
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Homework%2009/Figure_1-2.png)
   可见，月球轨道(蓝色)在运动中，多次往复穿过地球轨道(红色)，可见，我们定性分析中，对月球轨道与地球轨道的关系的判断是正确的。
+  
+  [代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Homework%2009/homework9.py)
