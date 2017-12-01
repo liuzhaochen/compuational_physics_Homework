@@ -22,7 +22,7 @@
 ## 初始条件
   因为在我们的计算中使用了天文单位制，所以我们的初始条件选取为：
 - 地球：
-  坐标：x=1,y=0; 速度：![](http://latex.codecogs.com/gif.latex?v_x=0\quadv_y=2\pi)
+  坐标：x=1,y=0; 速度：![](http://latex.codecogs.com/gif.latex?v_x=0\quad{v_y}=2\pi)
 - 月球：
   坐标：x=1+0.00275,y=0; 速度：![](http://latex.codecogs.com/gif.latex?2\pi+2\pi\sqrt{\frac{1}{0.00275}\frac{M_E}{M_s}})
 ## 计算结果：
