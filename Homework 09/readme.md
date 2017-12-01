@@ -12,10 +12,10 @@
   ![](http://latex.codecogs.com/gif.latex?\frac{d^2y}{dt^2}=-\frac{GM_{s}y}{r^3})  
   其中：![](http://latex.codecogs.com/gif.latex?r=\sqrt{x^2+y^2})
 - 月球运动方程：  
-  ![](http://latex.codecogs.com/gif.latex?\frac{d^2x_m}{dt^2}=-\frac{GM_{E}x_m}{R^3}-\frac{GM_{s}x_m}{r^3_m})
-  ![](http://latex.codecogs.com/gif.latex?\frac{d^2y_m}{dt^2}=-\frac{GM_{E}y_m}{R^3}-\frac{GM_{s}y_m}{r^3_m})  
+  ![](http://latex.codecogs.com/gif.latex?\frac{d^2x_m}{dt^2}=-\frac{GM_{E}(x_m-x)}{R^3}-\frac{GM_{s}x_m}{r^3_m})  
+  ![](http://latex.codecogs.com/gif.latex?\frac{d^2y_m}{dt^2}=-\frac{GM_{E}(y_m-y}}{R^3)-\frac{GM_{s}y_m}{r^3_m})  
   其中：![](http://latex.codecogs.com/gif.latex?R=\sqrt{(x_m-x)^2+(y_m-y)^2})  
-        ![](http://latex.codecogs.com/gif.latex?r_m=\sqrt{(x_m)^2+(y_m)^2})
+          ![](http://latex.codecogs.com/gif.latex?r_m=\sqrt{(x_m)^2+(y_m)^2})
 - 由于使用自然坐标系在计算行星运动中时，行星运动尺度的巨大性导致其十分不方便，因此引入天文单位：
   即1AU等于太阳与地球间距离的平均单位，而使用年作为时间单位时，可见![](http://latex.codecogs.com/gif.latex?GM_s=4{\pi}^2{AU}^3}/{{yr}^2)
   而![](http://latex.codecogs.com/gif.latex?\frac{M_E}{M_s}\approx{3\times{10^{-6}}})
