@@ -1,4 +1,4 @@
-# Homework 09
+# Homework 10
 # Electric Potentials and Fields: Laplace's Equation
 ## 物基二班 刘兆晨 2015302540110
 ## Problem 5.1
@@ -11,4 +11,11 @@
 ## 计算代码
 - 因为在之前的作业中使用的都是python内置的list方法，而这个方法在我们计算中，对于100x100的矩阵，多次迭代中(3000次)，由于list的数据结构，使得计算效率低下，故在这次作业中学习了numpy的array方法，以及使用numpy的meshgrid函数生成网格，从而画出等值线与电势大小分布。
 ## 计算结果
-
+- 等值线：
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2010/isogram.png)
+- 电势分布图：
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2010/distribution.png)
+- 三维分布图：
+  ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2010/3d.png)
+## 源代码：
+  ![](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2010/homework%2010.py)
