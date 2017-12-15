@@ -1,5 +1,5 @@
 # compuational_physics_N2015302540110
-## 姓名：刘兆晨
+## 姓名：刘兆晨 学号 2015302540110
 
 # Homework list
 - [x] [Homework_01:print your name](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2001)
