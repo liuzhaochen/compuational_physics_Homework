@@ -40,6 +40,6 @@
    传播时：  
    ![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/homework%2011/sin.gif)
  ## 讨论
-   可以看到，在上面的计算中，只有高斯型波包劈裂成两个波包向相反方向传播，而其余情况中并没有出现劈裂，都是随时间向右传播，然后在最右端反弹。
+   可以看到，在上面的计算中，只有高斯型波包劈裂成两个波包向相反方向传播，而其余情况中并没有出现劈裂，都是随时间向右传播，然后在最右端反弹。而正弦波则是驻波，不随时间传播。
    源代码：
    [源代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/homework%2011/Homework11.py)
