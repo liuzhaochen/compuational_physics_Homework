@@ -13,3 +13,4 @@
 - [x] [Midterm Homework](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Midterm)(上次期中的连接出了问题，这次进行更新)
 - [x] [Homework 09:The Solar System](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Homework%2009)
 - [x] [Homework 10:Electric Potentials and Fields:Laplace's Equation](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2010)
+- [x] [Homework 11:Wavss:The Ideal Case](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2011)
