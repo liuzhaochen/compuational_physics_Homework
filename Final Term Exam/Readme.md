@@ -37,7 +37,9 @@
 #### 自由高斯波包
   自由高斯波包含时演化动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/free/guass-free.gif)
 #### 自由高斯波包隧穿效应  
+  势垒在[0.6,0.65]处
   自由高斯波包隧穿效应动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/tunneling/guass-tunndeling.gif)
 #### 自由高斯波包势阱反射
-  动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/wall/guass-wall.gif)
+  在[0.6,1]处存在无穷大势垒
+  动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/wall/guass-wall.gif)
   
