@@ -56,4 +56,4 @@
 - The Mote-Carlo and Variation Method:[蒙卡变分法代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/mote-carlo.py)  
     由于使用蒙卡变分法计算结果不理想，所以没有在最终的期末论文中给出计算结果，这里贴出代码。
 - The Time-Dependence Schrodinger Equation:[含时演化代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/time-dependent.py)
-  
+- 在矩阵计算中使用的eign模块代码:[eign](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/eign.py)
