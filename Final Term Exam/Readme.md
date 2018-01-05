@@ -30,3 +30,7 @@
   波函数，n=5:![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/matrix%20method/harmonic/n%3D5.png)  
   
   波函数，n=9:![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/matrix%20method/harmonic/n%3D9.png)
+
+### [含时薛定谔方程](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Final%20Term%20Exam/time-dependence)
+#### 自由高斯波包
+  
