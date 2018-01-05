@@ -1,7 +1,7 @@
 
 # Final Term Exan
 ## 薛定谔方程的数值方法
-## 刘兆晨 学号：2015302540110
+## 刘兆晨 学号：2015302540110   邮箱：liuzc@whu.edu.cn
 ### The Shooting Method
 #### 一维无限深势阱
   基态：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/shooting/1dim-1/%E4%B8%80%E7%BB%B4%E6%97%A0%E9%99%90%E6%B7%B1_n%3D1.png)  
@@ -37,9 +37,23 @@
 #### 自由高斯波包
   自由高斯波包含时演化动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/free/guass-free.gif)
 #### 自由高斯波包隧穿效应  
-  势垒在[0.6,0.65]处
+  势垒在[0.6,0.65]处  
+  
   自由高斯波包隧穿效应动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/tunneling/guass-tunndeling.gif)
 #### 自由高斯波包势阱反射
-  在[0.6,1]处存在无穷大势垒
+  在[0.6,1]处存在无穷大势垒  
+  
   动图：![](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/time-dependence/wall/guass-wall.gif)
+
+- 由于含时演化中截图很多，所以这里只放了含时演化的动图。
+### 计算代码
+- The Shooting Method:[一维无限深势阱打靶法代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/%E4%B8%80%E7%BB%B4%E6%97%A0%E9%99%90%E6%B7%B1%E5%8A%BF%E4%BA%95.py)
+
+- The Shooting and Matching Method:[一维谐振子势代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/%E4%B8%80%E7%BB%B4%E6%97%A0%E9%99%90%E6%B7%B1%E5%8A%BF%E4%BA%95.py)
+
+- The Matrix Method: [矩阵法代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/matrix.py)
+
+- The Mote-Carlo and Variation Method:[蒙卡变分法代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/mote-carlo.py)  
+    由于使用蒙卡变分法计算结果不理想，所以没有在最终的期末论文中给出计算结果，这里贴出代码。
+- The Time-Dependence Schrodinger Equation:[含时演化代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/time-dependent.py)
   
