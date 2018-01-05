@@ -14,4 +14,4 @@
 - [x] [Homework 09:The Solar System](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Homework%2009)
 - [x] [Homework 10:Electric Potentials and Fields:Laplace's Equation](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2010)
 - [x] [Homework 11:Wavss:The Ideal Case](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/homework%2011)
-- [x] [Final Term Exam:](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Final%20Term%20Exam)
+- [x] [Final Term Exam:Quantumn Mechanics](https://github.com/liuzhaochen/compuational_physics_N2015302540110/tree/master/Final%20Term%20Exam)
