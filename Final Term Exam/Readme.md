@@ -57,3 +57,5 @@
     由于使用蒙卡变分法计算结果不理想，所以没有在最终的期末论文中给出计算结果，这里贴出代码。
 - The Time-Dependence Schrodinger Equation:[含时演化代码](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/time-dependent.py)
 - 在矩阵计算中使用的eign模块代码:[eign](https://raw.githubusercontent.com/liuzhaochen/compuational_physics_N2015302540110/master/Final%20Term%20Exam/eign.py)
+### 期末论文
+  [期末论文](https://github.com/liuzhaochen/compuational_physics_N2015302540110/blob/master/Final%20Term%20Exam/%E8%96%9B%E5%AE%9A%E8%B0%94%E6%96%B9%E7%A8%8B%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95.pdf)
