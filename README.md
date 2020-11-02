@@ -1,5 +1,5 @@
 # compuational_physics_Homework
-## 姓名：刘兆晨 学号 2015302540xxx
+## 姓名：刘兆晨 
 This is homeworks for Compuational Physics(the fall semester course) in Wuhan University.
 
 # Homework list
